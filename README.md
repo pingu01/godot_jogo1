@@ -1,2 +1,2 @@
 # godot_jogo1
- teste
+Jogo criado no gotot para o projeto do BTG Pactual
